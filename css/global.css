@@ -1,0 +1,36 @@
+body.dark {
+    background: #343a40;
+    color: #fff;
+    transition: .5s;
+}
+
+body.dark button {
+    background: #343a40;
+    color: #fff;
+    transition: .4s;
+    border: 2px solid white;
+}
+
+body.dark h1{
+    color: white;
+}
+
+body.dark h2{
+    color: white;
+}
+
+body.dark h3{
+    color: white;
+}
+
+body.dark h4{
+    color: white;
+}
+
+body.dark a {
+    color: white;
+}
+
+body.dark p {
+    color: white;
+}
